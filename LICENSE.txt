@@ -1,0 +1,1 @@
+I have learn: git log\git relog\git reset --hard commit-id\git status\ 
